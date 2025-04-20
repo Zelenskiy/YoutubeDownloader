@@ -2,3 +2,6 @@ venv
 *.pdf
 *.PDF
 _*
+video.*
+audio.*
+*.mp4
